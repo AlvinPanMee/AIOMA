@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "50283780623",
+    "firebase_url": "https://aioma-39441-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aioma-39441",
+    "storage_bucket": "aioma-39441.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50283780623:android:11b134699be3eb397e617a",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.aioma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50283780623-i44km6nbfmvjr1knc8a54v5ju17hdt7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3QRqNHGXBGFr1CoLCXy_56fU7O6IiR5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50283780623-i44km6nbfmvjr1knc8a54v5ju17hdt7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

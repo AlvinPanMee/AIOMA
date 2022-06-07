@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">AIOMA</string>
+    <string name="hello_world">AIOMA Home</string>
+
+    <!--StartActivity-->
+    <string name="welcome_to">Welcome to</string>
+    <string name="aioma">AIOMA</string>
+    <string name="welcome_to_aioma">Welcome to AIOMA</string>
+    <string name="welcome_message">Collect and Enjoy all your membership benefits through AIOMA.</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+
+    <!--SignUp & SignIn-->
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_in_message">Already have account? <u>Sign In</u></string>
+    <string name="sign_up_message">Does not have an account? <u>Sign Up</u></string>
+    <string name="forget_password"><u>Forget Password?</u></string>
+    <string name="forget_password_title">Forget Password?</string>
+    <string name="email_message">Enter your email address</string>
+    <string name="send_email">Send Email Verification</string>
+    <string name="sent_message">Email sent successfully.</string>
+
+    <!--Home Page-->
+    <string name="sign_out">Sign Out</string>
+    <string name="search">Search</string>
+    <string name="add_membership">+ Add Membership</string>
+    <string name="search_hint">Search Membership</string>
+    <string name="usertype">User type</string>
+    <string name="add_membership_message">Please search and add Membership to enjoy the AIOMA App</string>
+    <string name="scan_QR_code">Scan QR Code</string>
+    <string name="transaction_history_btn">Transaction History > </string>
+    <string name="verify_member">Show Membership</string>
+    <string name="membership_scan_message">Membership Verification</string>
+    <string name="points_collection_message">Points Collected</string>
+    <string name="clear_history_btn">Clear History</string>
+
+    <!--Search page-->
+    <string name="merchant_name">Merchant Name</string>
+    <string name="merchant_type">Merchant Type</string>
+
+    <!--Add Membership Dialog-->
+    <string name="confirm_add_membership_message">Add Membership Message</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+
+    <!-- Membership Activity  -->
+    <string name="points_title">Points:</string>
+    <string name="points">###</string>
+    <string name="delete_membership">Delete Membership</string>
+    <string name="rewards">Rewards &amp; Vouchers</string>
+    <string name="no_reward_message"> This merchant has not created any reward/voucher</string>
+    <string name="reward_title">Reward Title</string>
+    <string name="merchant_details">Merchant Info</string>
+    <string name="type_title">Type: </string>
+    <string name="merchant_email_title">Merchant Email:</string>
+    <string name="merchant_type_title">Merchant Type:</string>
+
+    <!--Reward Activity -->
+    <string name="reward_desc_title">Description</string>
+    <string name="points_required_title">Points Required: </string>
+    <string name="reward_desc">Reward Description</string>
+    <string name="reward_policy_title">Terms and Condition &amp; Policy</string>
+    <string name="reward_policy">Reward Terms and Condition &amp; Policy</string>
+    <string name="redeem">Redeem</string>
+    <string name="redeemed">Redeemed*</string>
+    <string name="use_reward_btn">Use Now</string>
+    <string name="scan_message">Scan Here</string>
+    <string name="scan_message_2">Show QR code to cashier to redeem Reward/Voucher</string>
+    <string name="used">Redeemed &amp; Used</string>
+    <string name="redeem_reward_message">Are you sure you want redeem this Reward/Voucher</string>
+    <string name="insufficient_points">Insufficient points to redeem</string>
+
+
+    <!--QR Scanner Activity -->
+    <string name="result">Result</string>
+    <string name="confirm_points_collection">Confirm Points Collection</string>
+    <string name="recipient_id">Recipient ID:</string>
+    <string name="recipient_name">Recipient Name:</string>
+    <string name="merchant">Merchant: </string>
+    <string name="merchant_id">Merchant ID: </string>
+    <string name="date_title">Date: </string>
+    <string name="date">date </string>
+    <string name="scan_again">Scan Again</string>
+    <string name="confirm">Confirm</string>
+    <string name="transaction_id_title">Transaction ID: </string>
+    <string name="transaction_id">Transaction ID</string>
+
+
+    <!--Profile Activity-->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="edit_PFP_message">Tap to add/change profile picture</string>
+    <string name="save_change">Save Change</string>
+    <string name="username_title">Username: </string>
+    <string name="email_title">Email: </string>
+
+
+    <!-- Confirm Password Dialog-->
+    <string name="user_verification">User Verification</string>
+    <string name="confirm_password_message">Note: Changing email will change your email for login credentials as well.</string>
+    <string name="incorrect_password">Incorrect Password</string>
+    <string name="error_message">Error Message</string>
+
+    <!--Change Password Activity-->
+    <string name="enter_current_password">Enter Current Password</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+
+    <!--Transaction History Activity-->
+    <string name="transaction_history_title">Transaction History</string>
+    <string name="transaction_history_message">No Transaction History</string>
+    <string name="transaction_history_message_2">Go collect membership points from your favourite merchants to redeem rewards/vouchers and enjoy members benefits</string>
+    <string name="transaction_type">Transaction Type from</string>
+
+</resources>
